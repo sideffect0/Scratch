@@ -1,2 +1,2 @@
-def wsgi(*args, **kwargs):
+def application(*args, **kwargs):
     pass
